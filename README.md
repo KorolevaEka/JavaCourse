@@ -7,4 +7,7 @@ cd delivery-cost-calculator
 Start tests
 ./gradlew test
 
+Allure report : allure serve build/allure-results
+
+
 
